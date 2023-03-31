@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="input">ルピアでアイテムごとの価格を入力します。</string>
+    <string name="change_languange" translatable="false">言語を変えてください</string>
+    <string name="action_help">ヘルプ</string>
+    <string name="expired_label">有効期限</string>
+    <string name="nougat">ヌガーキャンディーパッケージ</string>
+    <string name="help_text">サポートが必要な場合は、サポート部門にお問い合わせください。</string>
+    <string name="dial_log_message">ACTION_DIAL インテントのアプリを解決できません。</string>
+    <string name="description">ヌガーは、砂糖または蜂蜜、ロースト ナッツ (アーモンド、クルミ、ピスタチオ、ヘーゼル ナッツ、マカダミア ナッツが一般的)、ホイップした卵白、および刻んだ砂糖漬けの果物で作る菓子のファミリーです。さまざまなキャンディーバーやチョコレートに使用されています。</string>
+    <string name="convert">変換</string>
+    <string name="price_label2">料金 100 人:</string>
+    <string name="price_label">アイテムあたりの価格:</string>
+</resources>

@@ -19,4 +19,12 @@
 
     <!-- Do not translate.  -->
     <string name="dial_log_message">Can\'t resolve app for ACTION_DIAL Intent.</string>
+
+    <string name="change_languange">Change Language</string>
+
+    <string name="expired_label">Expired Date</string>
+    <string name="price_label">Price per Item: </string>
+    <string name="price_label2">Price 100 pax:</string>
+    <string name="input">Input the price per item in Rupiah</string>
+    <string name="convert">Convert</string>
 </resources>

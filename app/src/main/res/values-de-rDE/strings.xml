@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="price_label">Preis pro Artikel:</string>
+    <string name="price_label2">Preis 100 Personen:</string>
+    <string name="input">Geben Sie den Preis pro Artikel in Rupiah ein</string>
+    <string name="convert">Konvertieren</string>
+    <string name="description">Nougat ist eine Familie von Süßwaren, die aus Zucker oder Honig, gerösteten Nüssen (Mandeln, Walnüsse, Pistazien, Haselnüsse und Macadamianüsse sind üblich), geschlagenem Eiweiß und manchmal gehackten kandierten Früchten hergestellt werden. Es wird in einer Vielzahl von Schokoriegeln und Schokoladen verwendet.</string>
+    <string name="dial_log_message">App für ACTION_DIAL Intent kann nicht aufgelöst werden.</string>
+    <string name="help_text">Wenn Sie Hilfe benötigen, wenden Sie sich an unsere Support-Abteilung.</string>
+    <string name="nougat">Nougat-Süßigkeiten-Paket</string>
+    <string name="expired_label">Ablaufdatum</string>
+    <string name="action_help">Hilfe</string>
+    <string name="change_languange">Sprache ändern</string>
+</resources>

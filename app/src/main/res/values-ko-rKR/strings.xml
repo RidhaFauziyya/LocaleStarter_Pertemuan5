@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="change_languange">언어 변경</string>
+    <string name="action_help">돕다</string>
+    <string name="nougat">누가 캔디 패키지</string>
+    <string name="help_text">도움이 필요하면 지원 부서에 문의하십시오.</string>
+    <string name="dial_log_message">ACTION_DIAL 인텐트에 대한 앱을 확인할 수 없습니다.</string>
+    <string name="description">누가는 설탕이나 꿀, 볶은 견과류(아몬드, 호두, 피스타치오, 헤이즐넛, 마카다미아 너트가 일반적임), 휘핑한 달걀 흰자, 때로는 다진 설탕에 절인 과일로 만든 과자류입니다. 그것은 다양한 캔디 바와 초콜릿에 사용됩니다.</string>
+    <string name="expired_label">유통 기한</string>
+    <string name="price_label">품목당 가격:</string>
+    <string name="price_label2">가격 100인:</string>
+    <string name="input">항목당 가격을 루피아로 입력하세요.</string>
+    <string name="convert">전환하다</string>
+</resources>
